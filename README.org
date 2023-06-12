@@ -1,0 +1,10 @@
+* dynamic-collect
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stylewarning/dynamic-collect.git   |
+| commit  | 25cfd99  |
+| systems | dynamic-collect |
+|---------+-------------------------------------------|
+
